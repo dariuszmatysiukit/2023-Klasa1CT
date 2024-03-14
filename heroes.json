@@ -9,5 +9,16 @@
             { "atributes_type": "city", "value": "Białystok"}           //Miasto
             { "atributes_type": "power", "value": "100"}                //Moc :) 
         ]
+    },
+    "hero_1": {
+        "name": "Elon musk",     //Imię Nazwisko
+        "class": "CEO",             //Klasa (1AT,1BT,1CT)
+        "number": "1",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "None" },  //Data urodzenia
+            { "atributes_type": "country", "value": "RPA" },         //Państwo
+            { "atributes_type": "city", "value": "Pretoria"}           //Miasto
+            { "atributes_type": "power", "value": "10000"}                //Moc :) 
+        ]
     }
 }
