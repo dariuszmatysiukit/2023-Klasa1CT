@@ -1,10 +1,10 @@
 {
-    "hero_0": {
-        "name": "Dariusz Matysiuk",     //Imię Nazwisko
-        "class": "Teacher",             //Klasa (1AT,1BT,1CT)
-        "number": "0",                  //Numer w dzienniku
+    "hero_12": {
+        "name": "Michał Karonczyk",     //Imię Nazwisko
+        "class": "1cT",             //Klasa (1AT,1BT,1CT)
+        "number": "12",                  //Numer w dzienniku
         "atributes": [
-            { "atributes_type": "birdthDate", "value": "29-07-1978" },  //Data urodzenia
+            { "atributes_type": "birdthDate", "value": "08-07-2008" },  //Data urodzenia
             { "atributes_type": "country", "value": "Poland" },         //Państwo
             { "atributes_type": "city", "value": "Białystok"}           //Miasto
             { "atributes_type": "power", "value": "100"}                //Moc :) 
