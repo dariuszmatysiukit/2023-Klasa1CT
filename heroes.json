@@ -35,3 +35,16 @@
         ]
     }
 }
+{
+    "hero_22": {
+        "name": "Tomasz Wilk",     //Imię Nazwisko
+        "class": "1CT",             //Klasa (1AT,1BT,1CT)
+        "number": "22",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "29-07-2009" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "55749573"}                //Moc :) 
+        ]
+    }
+}
