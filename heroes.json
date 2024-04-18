@@ -1,0 +1,87 @@
+{
+    "hero_12": {
+        "name": "Michał Karonczyk",     //Imię Nazwisko
+        "class": "1cT",             //Klasa (1AT,1BT,1CT)
+        "number": "12",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "08-07-2008" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "100"}                //Moc :) 
+        ]
+    },
+    "hero_1": {
+        "name": "Elon musk",     //Imię Nazwisko
+        "class": "CEO",             //Klasa (1AT,1BT,1CT)
+        "number": "1",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "None" },  //Data urodzenia
+            { "atributes_type": "country", "value": "RPA" },         //Państwo
+            { "atributes_type": "city", "value": "Pretoria"}           //Miasto
+            { "atributes_type": "power", "value": "10000"}                //Moc :) 
+        ]
+    },
+    "hero_2": {
+        "name": "Kuba Kaczyński",     //Imię Nazwisko
+        "class": "1CT",             //Klasa (1AT,1BT,1CT)
+        "number": "9",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "14-08-2008" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "unlimited"}                //Moc :) 
+        ]
+     }
+}
+{
+    "hero_3": {
+        "name": "Maksymilian Bielecki",     //Imię Nazwisko
+        "class": "1CT",             //Klasa (1AT,1BT,1CT)
+        "number": "3",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "16-02-2009" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "∞"}                //Moc :) 
+        ]
+    }
+}
+{
+    "hero_4": {
+        "name": "Tomasz Wilk",     //Imię Nazwisko
+        "class": "1CT",             //Klasa (1AT,1BT,1CT)
+        "number": "22",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "29-07-2009" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "55749573"}                //Moc :) 
+        ]
+    }
+}
+{
+    "hero_5": {
+        "name": "Daniel Szewczuk",     //Imię Nazwisko
+        "class": "1cT",             //Klasa (1AT,1BT,1CT)
+        "number": "24",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "19.03.2008" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "duza"}                //Moc :) 
+        ]
+    }
+}
+{
+    "hero_6": {
+        "name": "Amelia Paskzo",     //Imię Nazwisko
+        "class": "1CT",             //Klasa (1AT,1BT,1CT)
+        "number": "16",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "08-02-2009" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "being the best (as always)"}                //Moc :) 
+        ]
+    }
+}
