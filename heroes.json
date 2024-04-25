@@ -96,7 +96,7 @@
             { "atributes_type": "city", "value": "Białystok"}           //Miasto
             { "atributes_type": "power", "value": "being there"}                //Moc :) 
         ]
-    }
+    },
     "hero_8": {
         "name": "Paweł Piotrowski",     //Imię Nazwisko
         "class": "1cT",             //Klasa (1AT,1BT,1CT)
@@ -107,6 +107,5 @@
             { "atributes_type": "city", "value": "Białystok"}           //Miasto
             { "atributes_type": "power", "value": "69"}                //Moc :>
         ]
-    },
-
+    }
 }
