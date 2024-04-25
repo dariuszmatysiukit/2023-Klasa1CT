@@ -96,5 +96,16 @@
             { "atributes_type": "city", "value": "Białystok"}           //Miasto
             { "atributes_type": "power", "value": "being there"}                //Moc :) 
         ]
+    },
+    "hero_8": {
+        "name": "Paweł Piotrowski",     //Imię Nazwisko
+        "class": "1cT",             //Klasa (1AT,1BT,1CT)
+        "number": "17",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "18-11-2008" },  //Data >
+            { "atributes_type": "country", "value": "Poland" },         //Państ>
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "69"}                //Moc :>
+        ]
     }
 }
