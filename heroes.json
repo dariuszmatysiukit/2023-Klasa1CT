@@ -120,3 +120,16 @@
             { "atributes_type": "city", "value": "Białystok"}           //Miasto
             { "atributes_type": "power", "value": "existing"}                //Moc :) 
         ]
+    }
+    "hero_10": {
+        "name": "Piotr Dąbrowski",     //Imię Nazwisko
+        "class": "1CT",             //Klasa (1AT,1BT,1CT)
+        "number": "7",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "05-02-2008" },  //Dat>
+            { "atributes_type": "country", "value": "Poland" },         //Pań>
+            { "atributes_type": "city", "value": "Białystok"}           //Mia>
+            { "atributes_type": "power", "value": "420"}                >
+        ]
+    } 
+}
