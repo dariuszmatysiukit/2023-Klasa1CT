@@ -133,3 +133,16 @@
         ]
     } 
 }
+{
+    "hero_11": {
+        "name": "Orest Piech",     //Imię Nazwisko
+        "class": "1CT",             //Klasa (1AT,1BT,1CT)
+        "number": "25",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "05-08-2008" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "中国出了个毛泽东。他为人民谋幸福，呼尔嗨哟，他是人民大救星！"}                //Moc :) 
+        ]
+    }
+}
